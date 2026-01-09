@@ -1,6 +1,7 @@
 # 👋 Hi, I'm [Anhfurev]
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FFDD&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FFDD&center=true&vCenter=true&lines=Full%20Stack%20Developer;React%20%7C%20Node.js%20%7C%20Next.js;Open%20Source%20Enthusiast;Lifelong%20Learner" alt="Typing SVG">
+
 
 
 
