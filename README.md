@@ -1,4 +1,9 @@
 # Hi there, I'm [Your Name] 👋
+# Hi, I'm [Your Name] 👋
+
+## I'm a 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js;Open+Source+Enthusiast&center=true&width=400&height=50&color=00FF00&size=22)
+
 
 ## 🌟 About Me
 I am a passionate **Frontend / Full-Stack Developer** who loves building clean, efficient, and scalable web apps.  
