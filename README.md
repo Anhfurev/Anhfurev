@@ -31,24 +31,7 @@ I enjoy learning new technologies, contributing to open source, and sharing know
 
 ---
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## ⚡ Fun Animations
-
-<div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/animated_wave.svg" width="150" alt="Animated Wave"/>
-</div>
-
-Or add **GitHub activity streak animation**:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
